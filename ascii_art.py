@@ -11,17 +11,17 @@ JUNK_PILE_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║                      JUNK PILE                             ║
     ║                                                            ║
-    ║        ~~~~ GARBAGE EVERYWHERE ~~~~                       ║
+    ║        ~~~~ GARBAGE EVERYWHERE ~~~~                        ║
     ║                                                            ║
-    ║     [BROKEN]  /\\___/\\  [CRUSHED]                          ║
-    ║      MACHINE   o_o    CONTAINERS                          ║
+    ║     [BROKEN]  /\\___/\\  [CRUSHED]                         ║
+    ║      MACHINE   o_o    CONTAINERS                           ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ RUSTY HATCH (north)  NARROW CORRIDOR (east)  ▓  ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ RUSTY HATCH (north)  NARROW CORRIDOR (east)  ▓        ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    The stench is... indescribable.                        ║
-    ║    (Mop and Lunch Box visible in the debris)              ║
+    ║    The stench is... indescribable.                         ║
+    ║    (Mop and Lunch Box visible in the debris)               ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
