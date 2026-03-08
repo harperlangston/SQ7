@@ -30,21 +30,21 @@ ENGINE_ROOM_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║                    ENGINE ROOM                             ║
     ║                                                            ║
-    ║              ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙                              ║
-    ║            ⚙ MASSIVE ENGINES ⚙                           ║
-    ║              ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙                              ║
+    ║              ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙                                 ║
+    ║            ⚙ MASSIVE ENGINES ⚙                             ║
+    ║              ⚙ ⚙ ⚙ ⚙ ⚙ ⚙ ⚙                                 ║
     ║                                                            ║
-    ║         ╔═══════════════════════════════╗                 ║
-    ║         ║  RUMBLE... RUMBLE... RUMBLE   ║                 ║
-    ║         ║  The ship shakes violently    ║                 ║
-    ║         ╚═══════════════════════════════╝                 ║
+    ║         ╔═══════════════════════════════╗                  ║
+    ║         ║  RUMBLE... RUMBLE... RUMBLE   ║                  ║
+    ║         ║  The ship shakes violently    ║                  ║
+    ║         ╚═══════════════════════════════╝                  ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ CATWALK (up)  JUNK PILE (west)  ▓                   ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ CATWALK (up)  JUNK PILE (west)  ▓                     ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    Heat radiates from the massive turbines.               ║
-    ║    One wrong move and you're space dust.                  ║
+    ║    Heat radiates from the massive turbines.                ║
+    ║    One wrong move and you're space dust.                   ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -54,20 +54,20 @@ CATWALK_ART = """
     ║              ENGINE ROOM CATWALK                           ║
     ║                                                            ║
     ║                    ═══════════                             ║
-    ║                   ║ CATWALK ║                             ║
+    ║                   ║ CATWALK ║                              ║
     ║                    ═══════════                             ║
-    ║                        ║                                  ║
-    ║                        ║                                  ║
-    ║    ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙  ║
-    ║    ⚙ SPINNING ENGINES BELOW - DON'T FALL! ⚙              ║
-    ║    ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙  ║
+    ║                        ║                                   ║
+    ║                        ║                                   ║
+    ║    ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙                   ║
+    ║    ⚙ SPINNING ENGINES BELOW - DON'T FALL! ⚙                ║
+    ║    ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙                   ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ ENGINE ROOM (down)  ▓                                ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ ENGINE ROOM (down)  ▓                                 ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    A narrow metal walkway suspended over the abyss.       ║
-    ║    One slip and you're a pancake.                         ║
+    ║    A narrow metal walkway suspended over the abyss.        ║
+    ║    One slip and you're a pancake.                          ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -76,18 +76,18 @@ AIRLOCK_CORRIDOR_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║                 AIRLOCK CORRIDOR                           ║
     ║                                                            ║
-    ║    ╔═══════════════════════════════════════════════╗      ║
-    ║    ║  ⊙ AIRLOCK DOOR ⊙                            ║      ║
-    ║    ║                                               ║      ║
-    ║    ║  [SEALED] [PRESSURIZED] [DANGEROUS]          ║      ║
-    ║    ╚═══════════════════════════════════════════════╝      ║
+    ║    ╔═══════════════════════════════════════════════╗       ║
+    ║    ║  ⊙ AIRLOCK DOOR ⊙                             ║       ║
+    ║    ║                                               ║       ║
+    ║    ║  [SEALED] [PRESSURIZED] [DANGEROUS]           ║       ║
+    ║    ╚═══════════════════════════════════════════════╝       ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ JUNK PILE (south)  ESCAPE POD BAY (north)  ▓        ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ JUNK PILE (south)  ESCAPE POD BAY (north)  ▓          ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    The corridor hums with the sound of recycled air.      ║
-    ║    Warning lights blink ominously.                        ║
+    ║    The corridor hums with the sound of recycled air.       ║
+    ║    Warning lights blink ominously.                         ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -96,17 +96,17 @@ ESCAPE_POD_BAY_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║               ESCAPE POD BAY                               ║
     ║                                                            ║
-    ║    ╔═══════╗  ╔═══════╗  ╔═══════╗  ╔═══════╗            ║
-    ║    ║ POD 1 ║  ║ POD 2 ║  ║ POD 3 ║  ║ POD 4 ║            ║
-    ║    ║  ◯◯◯  ║  ║  ◯◯◯  ║  ║  ◯◯◯  ║  ║  ◯◯◯  ║            ║
-    ║    ║ EMPTY ║  ║ EMPTY ║  ║ EMPTY ║  ║ EMPTY ║            ║
-    ║    ╚═══════╝  ╚═══════╝  ╚═══════╝  ╚═══════╝            ║
+    ║    ╔═══════╗  ╔═══════╗  ╔═══════╗  ╔═══════╗              ║
+    ║    ║ POD 1 ║  ║ POD 2 ║  ║ POD 3 ║  ║ POD 4 ║              ║
+    ║    ║  ◯◯◯  ║  ║  ◯◯◯  ║  ║  ◯◯◯  ║  ║  ◯◯◯  ║              ║
+    ║    ║ EMPTY ║  ║ EMPTY ║  ║ EMPTY ║  ║ EMPTY ║              ║
+    ║    ╚═══════╝  ╚═══════╝  ╚═══════╝  ╚═══════╝              ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ AIRLOCK CORRIDOR (south)  ▓                          ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ AIRLOCK CORRIDOR (south)  ▓                           ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    Your ticket to freedom... if you can reach it.         ║
+    ║    Your ticket to freedom... if you can reach it.          ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -115,7 +115,7 @@ ESCAPE_POD_LANDED_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║            ESCAPE POD (LANDED)                             ║
     ║                                                            ║
-    ║                      ╱╲╱╲╱╲                               ║
+    ║                      ╱╲╱╲╱╲                                ║
     ║                     ╱  POD  ╲                              ║
     ║                    ╱  LANDED  ╲                            ║
     ║                   ╱════════════╲                           ║
@@ -125,11 +125,11 @@ ESCAPE_POD_LANDED_ART = """
     ║                  ╚══════════════╝                          ║
     ║                   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                           ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ MONOLITH BURGER - EXTERIOR (out)  ▓                  ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ MONOLITH BURGER - EXTERIOR (out)  ▓                   ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    You made it! Now to find that flux capacitor...        ║
+    ║    You made it! Now to find that flux capacitor...         ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -138,21 +138,21 @@ MB_EXTERIOR_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║          MONOLITH BURGER - EXTERIOR                        ║
     ║                                                            ║
-    ║              ╔═══════════════════════╗                    ║
-    ║              ║  MONOLITH BURGER      ║                    ║
-    ║              ║  ═══════════════════  ║                    ║
-    ║              ║  [DRIVE-THRU WINDOW]  ║                    ║
-    ║              ║  [ENTRANCE]           ║                    ║
-    ║              ║  ═══════════════════  ║                    ║
-    ║              ║  "We Have One Item"   ║                    ║
-    ║              ╚═══════════════════════╝                    ║
+    ║              ╔═══════════════════════╗                     ║
+    ║              ║  MONOLITH BURGER      ║                     ║
+    ║              ║  ═══════════════════  ║                     ║
+    ║              ║  [DRIVE-THRU WINDOW]  ║                     ║
+    ║              ║  [ENTRANCE]           ║                     ║
+    ║              ║  ═══════════════════  ║                     ║
+    ║              ║  "We Have One Item"   ║                     ║
+    ║              ╚═══════════════════════╝                     ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ ESCAPE POD (in)  COUNTER (in)  ▓                     ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ ESCAPE POD (in)  COUNTER (in)  ▓                      ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    A fast-food establishment of questionable hygiene.     ║
-    ║    The smell is... distinctive.                           ║
+    ║    A fast-food establishment of questionable hygiene.      ║
+    ║    The smell is... distinctive.                            ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -161,23 +161,23 @@ MB_COUNTER_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║           MONOLITH BURGER - COUNTER                        ║
     ║                                                            ║
-    ║    ╔════════════════════════════════════════════╗         ║
-    ║    ║  WELCOME TO MONOLITH BURGER               ║         ║
-    ║    ║  ════════════════════════════════════════  ║         ║
-    ║    ║  [CASHIER]  [MENU BOARD]  [REGISTER]     ║         ║
-    ║    ║                                            ║         ║
-    ║    ║  TODAY'S SPECIAL: MONOLITH BURGER         ║         ║
-    ║    ║  (It's the only thing we have)            ║         ║
-    ║    ║                                            ║         ║
-    ║    ║  [FESTER BLATZ - DISGUSTING CUSTOMER]    ║         ║
-    ║    ║   ~~~~ SLURPING SOUNDS ~~~~               ║         ║
-    ║    ╚════════════════════════════════════════════╝         ║
+    ║    ╔════════════════════════════════════════════╗          ║
+    ║    ║  WELCOME TO MONOLITH BURGER                ║          ║
+    ║    ║  ════════════════════════════════════════  ║          ║
+    ║    ║  [CASHIER]  [MENU BOARD]  [REGISTER]       ║          ║
+    ║    ║                                            ║          ║
+    ║    ║  TODAY'S SPECIAL: MONOLITH BURGER          ║          ║
+    ║    ║  (It's the only thing we have)             ║          ║
+    ║    ║                                            ║          ║
+    ║    ║  [FESTER BLATZ - DISGUSTING CUSTOMER]      ║          ║
+    ║    ║   ~~~~ SLURPING SOUNDS ~~~~                ║          ║
+    ║    ╚════════════════════════════════════════════╝          ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ EXTERIOR (out)  KITCHEN (in)  ▓                      ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ EXTERIOR (out)  KITCHEN (in)  ▓                       ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    The smell of grease and regret fills the air.          ║
+    ║    The smell of grease and regret fills the air.           ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -186,24 +186,24 @@ MB_KITCHEN_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║            MONOLITH BURGER - KITCHEN                       ║
     ║                                                            ║
-    ║    ╔═══════════════════════════════════════════╗          ║
-    ║    ║  INDUSTRIAL KITCHEN OF DOOM              ║          ║
-    ║    ║  ═════════════════════════════════════   ║          ║
-    ║    ║  [GRILL]  [FRYER]  [MYSTERIOUS VATS]   ║          ║
-    ║    ║                                           ║          ║
-    ║    ║  [MANAGER - Wearing a ridiculous hat]   ║          ║
-    ║    ║   "SMILE OR BE REASSIGNED!"              ║          ║
-    ║    ║                                           ║          ║
-    ║    ║  ⚠ INCINERATOR ROOM (down) ⚠            ║          ║
-    ║    ║  [WHERE DREAMS GO TO BURN]              ║          ║
-    ║    ╚═══════════════════════════════════════════╝          ║
+    ║    ╔═══════════════════════════════════════════╗           ║
+    ║    ║  INDUSTRIAL KITCHEN OF DOOM               ║           ║
+    ║    ║  ═════════════════════════════════════    ║           ║
+    ║    ║  [GRILL]  [FRYER]  [MYSTERIOUS VATS]      ║           ║
+    ║    ║                                           ║           ║
+    ║    ║  [MANAGER - Wearing a ridiculous hat]     ║           ║
+    ║    ║   "SMILE OR BE REASSIGNED!"               ║           ║
+    ║    ║                                           ║           ║
+    ║    ║  ⚠ INCINERATOR ROOM (down) ⚠              ║           ║
+    ║    ║  [WHERE DREAMS GO TO BURN]                ║           ║
+    ║    ╚═══════════════════════════════════════════╝           ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ COUNTER (out)  ▓                                     ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ COUNTER (out)  ▓                                      ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    The heat is unbearable. Something smells worse than    ║
-    ║    the garbage freighter. That's saying something.        ║
+    ║    The heat is unbearable. Something smells worse than     ║
+    ║    the garbage freighter. That's saying something.         ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
@@ -212,23 +212,23 @@ INCINERATOR_ART = """
     ╔════════════════════════════════════════════════════════════╗
     ║              INCINERATOR CHAMBER                           ║
     ║                                                            ║
-    ║                    🔥🔥🔥🔥🔥🔥🔥                          ║
+    ║                    🔥🔥🔥🔥🔥🔥🔥                        ║
     ║                   🔥 RAGING INFERNO 🔥                    ║
-    ║                    🔥🔥🔥🔥🔥🔥🔥                          ║
+    ║                    🔥🔥🔥🔥🔥🔥🔥                        ║
     ║                                                            ║
-    ║    ╔═══════════════════════════════════════════╗          ║
-    ║    ║  TEMPERATURE: HOTTER THAN THE SUN        ║          ║
-    ║    ║  CONTENTS: EVERYTHING YOU EVER LOVED     ║          ║
-    ║    ║  STATUS: BURNING                         ║          ║
-    ║    ║                                           ║          ║
-    ║    ║  ⚠ FLUX CAPACITOR SOMEWHERE IN HERE ⚠   ║          ║
-    ║    ╚═══════════════════════════════════════════╝          ║
+    ║    ╔═══════════════════════════════════════════╗           ║
+    ║    ║  TEMPERATURE: HOTTER THAN THE SUN         ║           ║
+    ║    ║  CONTENTS: EVERYTHING YOU EVER LOVED      ║           ║
+    ║    ║  STATUS: BURNING                          ║           ║
+    ║    ║                                           ║           ║
+    ║    ║  ⚠ FLUX CAPACITOR SOMEWHERE IN HERE ⚠     ║           ║
+    ║    ╚═══════════════════════════════════════════╝           ║
     ║                                                            ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-    ║    ▓ KITCHEN (up)  CEO HALLWAY (north)  ▓                 ║
-    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
+    ║    ▓ KITCHEN (up)  CEO HALLWAY (north)  ▓                  ║
+    ║    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓      ║
     ║                                                            ║
-    ║    One wrong move and you're a crispy critter.            ║
+    ║    One wrong move and you're a crispy critter.             ║
     ║                                                            ║
     ╚════════════════════════════════════════════════════════════╝
 """
